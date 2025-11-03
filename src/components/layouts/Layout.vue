@@ -2,7 +2,7 @@
 
 <template>
   <header>
-    <h1 class="text-gradient">SMOLGRAM</h1>
+    <h1 class="text-gradient">smithzenfirstvue</h1>
   </header>
 
   <main>
